@@ -666,7 +666,7 @@ footer p {
   }
 
   #newsletters {
-    height: 30vh;
+    height: 40vh;
 
     padding: 10px;
     justify-content: space-around;
@@ -704,6 +704,9 @@ footer p {
     margin-top: 12px;
     font-weight: 500;
     transition: 0.3s ease;
+  }
+  #feature {
+   padding: 30px 10px;
   }
   #Footer {
     width: 100%;
